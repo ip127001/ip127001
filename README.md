@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am a frontend dev @Primathon
 
 - :computer: I’m currently working on Chrome Extensions
 - :notebook: Tech stack: Javascript, Angular, React
