@@ -1,4 +1,4 @@
-### Hi there 👋, I am a frontend dev @Paytm Payment Bank
+### Hi there 👋, I am a frontend dev @Paytm
 
 - :notebook: Tech stack: Javascript, Angular, React, Chrome Extensions
 - :tv: FRIENDS, Naruto, Big Bang Theory
