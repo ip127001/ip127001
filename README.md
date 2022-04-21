@@ -1,6 +1,5 @@
 ### Hi there 👋, I am a frontend dev @Paytm Bank
 
-- :notebook: Tech stack: Javascript, Angular, React, Chrome Extensions
-- :tv: FRIENDS & Big Bang Theory
+- :notebook: Tech stack: Javascript & React
+- :tv: FRIENDS
 - 📫 connect with me on twitter [geekrk](https://twitter.com/geekrk)
-- [My portfolio](https://rohitkumawat.online)
