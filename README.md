@@ -1,4 +1,4 @@
-### Hi there 👋, I am a frontend dev @Paytm Bank
+### Hi there 👋, I am a frontend dev @Swiggy
 
 - :notebook: Tech stack: Javascript & React
 - :tv: FRIENDS
